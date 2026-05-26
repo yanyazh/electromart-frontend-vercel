@@ -1,5 +1,5 @@
 import Banner from "../components/Banner";
-import OrderForm from "../components/Orderform";
+import OrderForm from "../components/OrderForm";
 import './OrderPage.css'
 
 const OrderPage = () => {
