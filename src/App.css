@@ -1,0 +1,18 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  /* margin: 0 auto; */
+  padding: 2rem;
+  text-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  min-height: 100vh;
+  overflow: auto;
+
+  background-color: #4e505a;
+  /* background-image: url('/bg.jpg'); */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

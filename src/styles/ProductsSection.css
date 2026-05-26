@@ -1,0 +1,8 @@
+.products-section {
+    display: flex;
+    background-color: #757575;
+    border-radius: 15px;
+    padding: 1.5em;
+    gap: 1.5em;
+    background-color: rgba(240, 248, 255, 0.25);
+}

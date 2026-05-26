@@ -1,0 +1,10 @@
+.banner {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+    /* border: 3px solid #424242; */
+    background-color: rgba(240, 248, 255, 0.25);
+    border-radius: 15px;
+    padding-inline: 1em;
+}
