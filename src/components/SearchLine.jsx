@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
-import '/src/styles/Searchline.css';
+import '/src/styles/SearchLine.css';
 import { useDispatch, useSelector } from 'react-redux';
 import { clearFilters, setName } from '../store/slices/filtersSlice';
 import getNavigateUrl from '../hooks/useNavigateUrl';
